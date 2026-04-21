@@ -1,5 +1,5 @@
 # 03_DPP
-Developing Python Packages
+## Developing Python Packages
 
 ### Description
 Do you find yourself copying and pasting the same code between files, wishing it was easier to reuse and share your awesome snippets? Wrapping your code into Python packages can help! In this course, you’ll learn about package structure and the extra files needed to turn loose code into convenient packages. You'll also learn about import structure, documentation, and how to maintain code style using flake8. You’ll then speed up your package development by building templates, using cookiecutter to create package skeletons. Finally, you'll learn how to use setuptools and twine to build and publish your packages to PyPI—the world stage for Python packages.
